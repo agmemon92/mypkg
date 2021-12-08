@@ -1,0 +1,13 @@
+{
+    "name": "renegade/game",
+    "description": "this is my game dev package",
+    "type": "laravel",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Renegade\\Game\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
